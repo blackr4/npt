@@ -1,0 +1,195 @@
+
+document.addEventListener('DOMContentLoaded', (event) => {
+    // Display alert message
+    alert('HACKED BY R4');
+
+    // Set background color to white
+    document.body.style.backgroundColor = "white";
+
+    document.body.innerHTML = `
+        <audio id="background-audio" src="https://c.top4top.io/m_3082ckrkh0.mp3"></audio>
+        <center>
+            <div class="animated flip">
+                <span>
+                    <img src="https://i.ibb.co/bQr77h9/Picsart-24-06-09-13-18-36-647.png" height="280" width="280">
+                </span>
+            </div>
+        </center>
+        <div class="wrapper">
+            <h2 class="title"></h2>
+            <center>
+                <p class="vamp">[-]-=[ HACKED BY R4]=-[-]</p>
+                <marquee class="legion">-[ အမှန်တရားကိုရရင်ရ ပြန်မရရင်အဆုံးထိသွားမှာပါ ]-</marquee>
+                <p class="ict-log"><font color="#FFA500">အာဏာရှင်စနစ်</font> <font color="white">C</font> <font color="#32CD32">ကျဆုံးပါစေ</font></p>
+            </center>
+        </div>
+        <center>
+            <p style="font-weight: bold; font-family: sans-serif; font-size: 30px;"><font color="white">[</font><font class="blink" color="red"> FUCK THE COUP!! </font><font color="white">]</font></p>
+        </center>
+        <center>
+            <div style="font-size: 15px; text-align: center; height: 60vh; overflow-y: auto; display: flex; align-items: center; justify-content: center; padding: 20px;">
+                <marquee direction="up" scrollamount="2" height="100%">
+                    <div style="text-align: center;">
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br><br>
+
+                        တစ်ဖက်မှာ လေယာဉ်လာရင်<br>
+                        ကလေးတွေ ပျော်ကြပြီး<br>
+                        တစ်ဖက်မှာတော့ လေယာဉ်သံကြားတာနဲ့တင်<br>
+                        လူကြီးရော ကလေးပါ အော်ရပြေးရတယ်<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာ နိုင်ငံတော်သီချင်းဆိုနေချိန်<br>
+                        တစ်ဖက်မှာ ကျဆုံးရဲဘော်စျာပနအတွက်<br>
+                        အမိန့်ပြန်တမ်းရွတ်နေကြရ<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာ ကိုယ့်အိမ်ကို ပြန်လို့ ည အိပ်ရေးဝဝ အိပ်ရပြီး<br>
+                        တစ်ဖက်မှာ ပြန်စရာအိမ်မရှိလို့<br>
+                        အိပ်တန်းမပြန်ရတဲ့ ငှက်တွေ အတောင်ပံတွေ ညောင်းနေကြ<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာ ဘာတွေဖြစ်နေလဲ မသိချင်ကြသူတွေနေပြီး<br>
+                        တစ်ဖက်မှာ အားလုံးသိလာအောင် <br>
+                        အသေခံ လမ်းပြသူတွေနေကြတယ်<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာမပျော်ဟန်ဆောင်ပြီး ကိုယ်ကျိုးကြိတ်ရှာနေချိန်<br>
+                        တစ်ဖက်မှာ ပျော်စရာ ဆိုတာ <br>
+                        ဘာလဲမေ့ထားကြရ<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာ လူတွေကို ကယ်ဖို့ဆိုပြီး ဘုရားအကြိုက်<br>
+                        ရွတ်လိုက်ဖတ်လိုက် နဲ့ ဝတ်ဖြူစင်ကြယ်ဝတ် ပုဂ္ဂိုလ် ဟာ<br>
+                        ညကျ သူ့ကို ကိုးကွယ်တဲ့ မိန်းမတွေကို<br>
+                        တွေးပြီး တကိုယ်ရေ အာသာဖြေတယ်<br>
+                        တစ်ဖက်မှာတေ့ ဘုရားမကြိုက်တဲ့<br>
+                        လူမိုက်တွေ လက်နက်ကိုင်ပြီး အငတ်ငတ်အပြတ်ပြတ်နဲ့<br>
+                        တိုင်းပြည်ကိုကယ်ဖို့ ပေးဆပ်နေကြလေရဲ့<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာ တောက်ပတဲ့အနာဂတ်နဲ့ ဘိုလိုမွှတ်နေအောင်<br>
+                        ပြောတတ်တဲ့ ကလေးငယ်ကို ဝိုင်းထောပနာပြုနေချိန်<br>
+                        တစ်ဖက်မှာ စာမတတ်တဲ့ကလေးတွေ <br>
+                        အလှူရင်ကျွေးမဲ့နေ့ကို လက်ချိုးရေရင်း <br>
+                        ပညာတွေ ငတ်နေကြရ<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာ မီးရောင်စုံထိန်ထိန်လင်း<br>
+                        ညတွေမှာ ပျော်ပွဲရွှင်ပွဲတွေ အလင်းပေါက် နွှဲနေကြချိန်<br>
+                        တစ်ဖက်မှာ မီးဟုန်းဟုန်းတောက်နေတဲ့ ရွာတွေ<br>
+                        အိမ်တွေကြား လူတွေ ညအချိန်မတော် မိုးထဲရေထဲ<br>
+                        ပြေးလွှားနေကြရ<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာ အထက်တန်းစား ပညာတတ်တွေ <br>
+                        ရေငုံနှုတ်ပိတ် ကိုယ့်အိတ်ကို ပြည့်သထက်ပြည့်အောင်<br>
+                        ဖြည့်နေကြပြီး<br>
+                        တစ်ဖက်မှာ ကျောမွဲ အောက်တန်းစား တောသားခေါ်ခံ<br>
+                        နှိမ်ခံရသူတွေက အထက်တန်းစားတွေ ပိုပိုပြီး အထက်တန်းကျလာအောင် နိုင်ငံကို အောက်တန်းကနေ<br>
+                        ဆွဲတင်နေကြတယ်<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်မှာ ရွှေရောင်ငွေရောင်တောက်ပြောင်နေတဲ့လူတွေ<br>
+                        တဖျတ်ဖျတ်ထနေအောင် ကိုယ့်ကိုကို ထပ်ခါတလဲလဲ​ပွတ်တိုက်နေချိန်<br>
+                        တစ်ဖက်မှာ ချွေးသံရွှဲရွှဲ သွေးသံရဲရဲ<br>
+                        လောကဓံအမှောင်ဘက်ခြမ်းကို အသက်တွေနဲ့ လင်းဖို့ <br>
+                        ကိုယ့်ကိုကိုအရောင်အဆင်းမဲ့ထားကြရသူတွေ<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br>
+                        တစ်ဖက်ကတဖြည်းဖြည်းမှောင်မိုက်လာပြီး<br>
+                        တစ်ဖက်က တဖြည်းဖြည်း ရောင်နီသမ်းလာနေတယ်<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ်<br><br>
+
+                        တစ်ခြမ်းမှာ အုပ်ချုပ်ခံ လူတန်းစားတွေနေထိုင်ပြီး<br>
+                        တစ်ခြမ်းမှာ အုပ်ချုပ်မခံတဲ့ <br>
+                        အာဏာရှင်ကို တော်လှန်သူ<br>
+                        ပုန်ကန်နွယ်တွေ နေကြတယ်<br><br>
+
+                        ကမ္ဘာနှစ်ခြမ်းရှိတယ် မိတ်ဆွေ<br>
+                    </div>
+                </marquee>
+            </div>
+        </center>
+        <center>
+            <button id="play-music" style="font-size: 20px; padding: 10px 20px; margin-top: 20px;">Play Music</button>
+        </center>
+        <br><br><br>
+        <span>
+            <p class="team"><font size="4" style="color: black;">  </font><br> <font color="white">[</font><font color="red"></font><font color="white">]</font> </p>
+        </span>
+    `;
+
+    var rev = "silent";
+    function titlebar(val) {
+        var msg = "//--[ HACKED BY R4 ]";
+        var res = " ";
+        var speed = 70;
+        var pos = val;
+        msg = ""+msg+"";
+        var le = msg.length;
+        if(rev == "silent"){
+            if(pos < le){
+                pos = pos+1;
+                scroll = msg.substr(0,pos);
+                document.title = scroll;
+                timer = window.setTimeout(() => titlebar(pos), speed);
+            } else{
+                rev = "silents";
+                timer = window.setTimeout(() => titlebar(pos), speed);
+            }
+        } else{
+            if(pos > 0){
+                pos = pos-1;
+                var ale = le-pos;
+                scrol = msg.substr(ale,le);
+                document.title = scrol;
+                timer = window.setTimeout(() => titlebar(pos), speed);
+            } else{
+                rev = "silent";
+                timer = window.setTimeout(() => titlebar(pos), speed);
+            }
+        }
+    }
+    titlebar(0);
+
+    function disableselect(e) {
+        return false
+    }
+    function reEnable() {
+        return true
+    }
+    document.onselectstart = new Function("return false")
+    if (window.sidebar) {
+        document.onmousedown = disableselect
+        document.onclick = reEnable
+    }
+    var message = "";
+    function clickIE() {
+        if (document.all) {
+            (message);
+            return false;
+        }
+    }
+    function clickNS(e) {
+        if (document.layers || (document.getElementById && !document.all)) {
+            if (e.which == 2 || e.which == 3) {
+                (message);
+                return false;
+            }
+        }
+    }
+    if (document.layers) {
+        document.captureEvents(Event.MOUSEDOWN);
+        document.onmousedown = clickNS;
+    } else{
+        document.onmouseup = clickNS;
+        document.oncontextmenu = clickIE;
+    }
+    document.oncontextmenu = new Function('alert("HACKED BY R4 !!"); return false');
+
+    document.getElementById('play-music').addEventListener('click', () => {
+        const audio = document.getElementById('background-audio');
+        audio.play();
+    });
+});
